@@ -133,7 +133,7 @@ export default function Home() {
           </div>
         </div>
         <div className="max-w-7xl mx-auto px-6 pt-8 border-t border-slate-100 text-center">
-          <p className="text-slate-400 text-xs font-bold uppercase tracking-tighter italic underline decoration-indigo-500 tracking-widest">&copy; 2026 IT103 LAB | Advanced Web Design Project</p>
+          <p className="text-slate-400 text-xs font-bold uppercase tracking-tighter italic underline decoration-indigo-500 tracking-widest">&copy; 2026 IT103 LAB | By Eavan Joachim L. Doromal A221</p>
         </div>
       </footer>
     </div>
